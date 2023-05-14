@@ -90,3 +90,7 @@ If you want not only to have minimum amount of moves but also want to have minim
 #### Proposed algorithm
 
 We don't try to solve Steiner tree problem here though think it's quite an interesting thing to do
+
+## Related links
+1. [Held-Karp algorithm](https://en.wikipedia.org/wiki/Held%E2%80%93Karp_algorithm)
+2. [Algorithms Live! - Episode 7 - Steiner Trees](https://www.youtube.com/watch?v=BG4vAoV5kWw)
