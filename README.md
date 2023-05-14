@@ -29,7 +29,7 @@ In this game there are two operations that can be done on a word:
 1. Move a letter to a different place<br>
    **Example:** `leaps -> lapse` (moving `e` to the end of the word)<br>
 2. Rotate a letter by 180 degrees<br>
-   **Example:** `reedy -> ready` (rotating second `e` so it becomes `a`)
+   **Example:** `reedy -> ready` (rotating second `e` so it becomes `a`)<br>
    All possible rotations are:
     - `a <-> e`
     - `b <-> q`
