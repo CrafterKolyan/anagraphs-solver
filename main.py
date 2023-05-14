@@ -142,7 +142,7 @@ class Solver:
                 matches[group] += 1
 
         start_word = list(from_)
-        generation_list = [(x, matches[x], positions[x]) for x in positions]
+        generation_list = [(x, matches[x], positions[x]) for x in sorted(positions.keys())]
 
         def generate(generation_list, path, index=0):
             if index == len(generation_list):
