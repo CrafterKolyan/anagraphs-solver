@@ -31,13 +31,13 @@ In this game there are two operations that can be done on a word:
 2. Rotate a letter by 180 degrees<br>
    **Example:** `reedy -> ready` (rotating second `e` so it becomes `a`)
    All possible rotations are:
-    - `a` <-> `e`
-    - `b` <-> `q`
-    - `d` <-> `p`
-    - `h` <-> `y`
-    - `m` <-> `w`
-    - `n` <-> `u`
-    - `j` <-> `r`
+    - `a <-> e`
+    - `b <-> q`
+    - `d <-> p`
+    - `h <-> y`
+    - `m <-> w`
+    - `n <-> u`
+    - `j <-> r`
 
 By word here we mean a string of letters, not a word in a dictionary.
 
