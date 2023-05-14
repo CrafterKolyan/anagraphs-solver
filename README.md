@@ -48,7 +48,7 @@ Easiest algorithm you can think of to find minimum path between two words is BFS
 1. Split path from one word to another into two pieces:
 
     1. Path consisting of only rotations from first word to a word that has same letters as second word, but in different order<br>
-    2. Path from that word to second word with only letter moves<
+    2. Path from that word to second word with only letter moves
 
     **Example:** we want to find path from `leeds` to `lapse`<br>
     First part would be `leeds -> leads -> leaps`<br>
