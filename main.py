@@ -233,8 +233,6 @@ class Solver:
                     word = word[: insert_after_index + 1] + [letter] + word[insert_after_index + 1 : i] + word[i + 1 :]
                     lcs = lcs[: k + 1] + [(k + 1, j)] + [(x + 1, y) for x, y in lcs[k + 1 : i]] + lcs[i:]
                 path.append("".join(word))
-                another_lcs = self.longest_common_subsequence(word, to)
-                assert len(lcs) == len(another_lcs)
 
             if min_path is None or len(min_path) > len(path):
                 min_path = path
