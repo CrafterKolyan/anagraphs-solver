@@ -4,6 +4,7 @@ import more_itertools
 from collections import defaultdict
 from tqdm.auto import tqdm
 from functools import lru_cache
+import sys
 
 
 def test(f, expected, *args, **kwargs):
@@ -404,3 +405,9 @@ def generate_guide(levels):
 guide = generate_guide(levels)
 description = "\n\n".join(guide)
 print(description)
+
+if __name__ == "__main__":
+    if len(sys.argv) == 2:
+        file = sys.argv[1]
+        with open(file, "w", encoding="utf-8") as f:
+            f.write(description)

@@ -15,8 +15,8 @@ Stars to unlock: 1
 ★: 8 moves
 ★★: 4 moves
 All words ([spoiler]3[/spoiler] words): [spoiler]odd, pod, pop[/spoiler]
-Optimal solution ([spoiler]4[/spoiler] moves): [spoiler]ddo -> odd -> dod -> pod -> pop[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]7[/spoiler]): [spoiler]ddo -> dod -> pod -> pop -> pod -> dod -> ddo -> odd[/spoiler]
+Optimal solution ([spoiler]4[/spoiler] moves): [spoiler]ddo -> odd -> odp -> pod -> pop[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]7[/spoiler]): [spoiler]ddo -> dpo -> pod -> pop -> pod -> dpo -> ddo -> odd[/spoiler]
 
 Level 2 - eaw
 ---------------------
@@ -35,8 +35,8 @@ Stars to unlock: 5
 ★: 15 moves
 ★★: 8 moves
 All words ([spoiler]6[/spoiler] words): [spoiler]any, hen, hue, nay, yen, nah[/spoiler]
-Optimal solution ([spoiler]8[/spoiler] moves): [spoiler]ueh -> hue -> heu -> hen -> yen -> yan -> any -> nay -> nah[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]15[/spoiler]): [spoiler]ueh -> neh -> nah -> nay -> any -> yan -> yen -> hen -> yen -> yan -> any -> nay -> nah -> neh -> ueh -> hue[/spoiler]
+Optimal solution ([spoiler]8[/spoiler] moves): [spoiler]ueh -> hue -> hne -> hen -> yen -> yan -> any -> nay -> nah[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]15[/spoiler]): [spoiler]ueh -> neh -> nah -> nay -> any -> eny -> yen -> hen -> yen -> eny -> any -> nay -> nah -> neh -> ueh -> hue[/spoiler]
 
 Level 4 - adm
 ---------------------
@@ -47,7 +47,7 @@ Stars to unlock: 7
 ★★★: 10 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]9[/spoiler] words): [spoiler]amp, dam, dew, mad, map, paw, pew, wad, wed[/spoiler]
 Optimal solution ([spoiler]11[/spoiler] moves): [spoiler]adm -> dam -> dem -> dew -> pew -> paw -> pam -> amp -> map -> mad -> wad -> wed[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]21[/spoiler]): [spoiler]adm -> mad -> map -> amp -> pam -> paw -> pew -> dew -> wde -> wed -> wad -> wed -> wde -> dew -> pew -> paw -> pam -> amp -> map -> mad -> adm -> dam[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]21[/spoiler]): [spoiler]adm -> mad -> map -> amp -> awp -> paw -> pew -> dew -> ewd -> wed -> wad -> wed -> ewd -> dew -> pew -> paw -> awp -> amp -> map -> mad -> adm -> dam[/spoiler]
 
 Level 5 - iskp
 ---------------------
@@ -56,8 +56,8 @@ Stars to unlock: 10
 ★: 14 moves
 ★★: 5 moves
 All words ([spoiler]4[/spoiler] words): [spoiler]kids, skid, skip, disk[/spoiler]
-Optimal solution ([spoiler]5[/spoiler] moves): [spoiler]iskp -> skip -> skid -> kids -> kdis -> disk[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]11[/spoiler]): [spoiler]iskp -> iskd -> disk -> kdis -> kids -> skid -> kids -> kdis -> disk -> iskd -> iskp -> skip[/spoiler]
+Optimal solution ([spoiler]5[/spoiler] moves): [spoiler]iskp -> skip -> skid -> kids -> idsk -> disk[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]11[/spoiler]): [spoiler]iskp -> iskd -> disk -> idsk -> kids -> skid -> kids -> idsk -> disk -> iskd -> iskp -> skip[/spoiler]
 
 Level 6 - ostp
 ---------------------
@@ -76,8 +76,8 @@ Stars to unlock: 14
 ★: 14 moves
 ★★: 7 moves
 All words ([spoiler]4[/spoiler] words): [spoiler]ajar, jeer, rare, rear[/spoiler]
-Optimal solution ([spoiler]7[/spoiler] moves): [spoiler]erar -> rare -> rear -> reer -> jeer -> jaer -> jaar -> ajar[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]13[/spoiler]): [spoiler]erar -> rear -> reer -> jeer -> jaer -> jaar -> ajar -> jaar -> jaer -> jeer -> reer -> rear -> erar -> rare[/spoiler]
+Optimal solution ([spoiler]7[/spoiler] moves): [spoiler]erar -> rare -> rear -> jear -> jeer -> jaer -> jaar -> ajar[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]13[/spoiler]): [spoiler]erar -> rear -> jear -> jeer -> jaer -> jaar -> ajar -> jaar -> jaer -> jeer -> jear -> rear -> erar -> rare[/spoiler]
 
 Level 8 - aedp
 ---------------------
@@ -86,8 +86,8 @@ Stars to unlock: 16
 ★: 13 moves
 ★★: 9 moves
 All words ([spoiler]6[/spoiler] words): [spoiler]aped, dead, deed, deep, papa, peep[/spoiler]
-Optimal solution ([spoiler]9[/spoiler] moves): [spoiler]aedp -> aped -> pead -> dead -> deed -> deep -> peep -> peap -> pepa -> papa[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]19[/spoiler]): [spoiler]aedp -> aedd -> daed -> dead -> deed -> deep -> peep -> peap -> pepa -> papa -> pepa -> peap -> peep -> deep -> deed -> dead -> daed -> aedd -> aedp -> aped[/spoiler]
+Optimal solution ([spoiler]9[/spoiler] moves): [spoiler]aedp -> aped -> aded -> dead -> deed -> deep -> peep -> paep -> paap -> papa[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]19[/spoiler]): [spoiler]aedp -> aedd -> edad -> dead -> deed -> deep -> peep -> paep -> paap -> papa -> paap -> paep -> peep -> deep -> deed -> dead -> edad -> aedd -> aedp -> aped[/spoiler]
 
 Level 9 - aspn
 ---------------------
@@ -97,8 +97,8 @@ Stars to unlock: 18
 ★★: 18 moves
 ★★★: 16 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]12[/spoiler] words): [spoiler]dens, dues, ends, naps, pans, pens, sand, send, snap, span, sued, used[/spoiler]
-Optimal solution ([spoiler]17[/spoiler] moves): [spoiler]aspn -> span -> pans -> pens -> pans -> pnas -> naps -> snap -> snad -> sand -> send -> ends -> dens -> dnes -> dues -> uesd -> sued -> used[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]33[/spoiler]): [spoiler]aspn -> nasp -> snap -> naps -> pnas -> pans -> pens -> dens -> ends -> send -> sand -> send -> nsed -> used -> sued -> uesd -> dues -> uesd -> sued -> used -> nsed -> send -> sand -> send -> ends -> dens -> pens -> pans -> pnas -> naps -> snap -> nasp -> aspn -> span[/spoiler]
+Optimal solution ([spoiler]17[/spoiler] moves): [spoiler]aspn -> span -> spen -> pens -> pans -> anps -> naps -> snap -> snad -> sand -> send -> ends -> dens -> deus -> dues -> ueds -> sued -> used[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]33[/spoiler]): [spoiler]aspn -> spna -> snap -> naps -> apns -> pans -> pens -> dens -> ends -> send -> sand -> send -> seud -> used -> sued -> uesd -> dues -> uesd -> sued -> used -> seud -> send -> sand -> send -> ends -> dens -> pens -> pans -> apns -> naps -> snap -> spna -> aspn -> span[/spoiler]
 
 Level 10 - dwas
 ---------------------
@@ -108,8 +108,8 @@ Stars to unlock: 20
 ★★: 15 moves (IMPOSSIBLE WITHOUT USING BUG)
 ★★★: 14 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]13[/spoiler] words): [spoiler]amps, dams, dews, maps, paws, pews, spam, spew, swad, swap, wads, wasp, weds[/spoiler]
-Optimal solution ([spoiler]19[/spoiler] moves): [spoiler]dwas -> wads -> swad -> swap -> wasp -> masp -> maps -> amps -> samp -> spam -> spaw -> spew -> pews -> paws -> daws -> dams -> daws -> dews -> wdes -> weds[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]39[/spoiler]): [spoiler]dwas -> dswa -> swad -> swap -> wasp -> masp -> maps -> amps -> samp -> spam -> spaw -> spew -> pews -> paws -> daws -> dams -> daws -> dews -> wdes -> weds -> wdes -> dews -> daws -> dams -> daws -> paws -> pews -> spew -> spaw -> spam -> samp -> amps -> maps -> masp -> wasp -> swap -> swad -> dswa -> dwas -> wads[/spoiler]
+Optimal solution ([spoiler]19[/spoiler] moves): [spoiler]dwas -> wads -> swad -> swap -> wasp -> masp -> maps -> amps -> pams -> spam -> spem -> spew -> pews -> paws -> daws -> dams -> dems -> dews -> ewds -> weds[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]39[/spoiler]): [spoiler]dwas -> dswa -> swad -> swap -> wasp -> masp -> maps -> amps -> pams -> spam -> spem -> spew -> pews -> paws -> daws -> dams -> dems -> dews -> ewds -> weds -> ewds -> dews -> dems -> dams -> daws -> paws -> pews -> spew -> spem -> spam -> pams -> amps -> maps -> masp -> wasp -> swap -> swad -> dswa -> dwas -> wads[/spoiler]
 
 Level 11 - oslva
 ---------------------
@@ -118,8 +118,8 @@ Stars to unlock: 23
 ★: 20 moves
 ★★: 10 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]5[/spoiler] words): [spoiler]loves, ovals, salvo, solve, voles[/spoiler]
-Optimal solution ([spoiler]11[/spoiler] moves): [spoiler]oslva -> slvao -> salvo -> vsalo -> ovsal -> ovals -> lovas -> loves -> lsove -> solve -> vsole -> voles[/spoiler]
-Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]18[/spoiler]): [spoiler]oslva -> osval -> ovals -> lovas -> loves -> lsove -> solve -> vsole -> voles -> vsole -> solve -> lsove -> loves -> lovas -> ovals -> osval -> oslva -> slvao -> salvo[/spoiler]
+Optimal solution ([spoiler]11[/spoiler] moves): [spoiler]oslva -> slvoa -> salvo -> alsvo -> valso -> ovals -> ovels -> loves -> olves -> solve -> olves -> voles[/spoiler]
+Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]18[/spoiler]): [spoiler]oslva -> olvas -> ovals -> ovels -> loves -> olves -> solve -> olves -> voles -> olves -> solve -> olves -> loves -> ovels -> ovals -> olvas -> oslva -> slvoa -> salvo[/spoiler]
 
 Level 12 - larat
 ---------------------
@@ -128,8 +128,8 @@ Stars to unlock: 25
 ★: 18 moves
 ★★: 6 moves
 All words ([spoiler]4[/spoiler] words): [spoiler]alert, altar, alter, later[/spoiler]
-Optimal solution ([spoiler]6[/spoiler] moves): [spoiler]larat -> alart -> altar -> alter -> alert -> atler -> later[/spoiler]
-Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]10[/spoiler]): [spoiler]larat -> alart -> altar -> alter -> later -> alter -> altar -> alart -> larat -> alart -> alert[/spoiler]
+Optimal solution ([spoiler]6[/spoiler] moves): [spoiler]larat -> alart -> altar -> alter -> alert -> laert -> later[/spoiler]
+Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]10[/spoiler]): [spoiler]larat -> alart -> altar -> alter -> later -> alter -> altar -> alart -> larat -> lerat -> alert[/spoiler]
 
 Level 13 - yseat
 ---------------------
@@ -138,8 +138,8 @@ Stars to unlock: 27
 ★: 18 moves
 ★★: 9 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]7[/spoiler] words): [spoiler]haste, hates, heats, sheet, these, yeast, satay[/spoiler]
-Optimal solution ([spoiler]14[/spoiler] moves): [spoiler]yseat -> yeast -> yeats -> heats -> sheat -> sheet -> heset -> these -> thase -> haste -> hates -> hatas -> yatas -> atasy -> satay[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]27[/spoiler]): [spoiler]yseat -> ysate -> ysata -> satay -> ysata -> ysate -> yaste -> haste -> hates -> heats -> sheat -> sheet -> heset -> these -> heset -> sheet -> sheat -> heats -> hates -> haste -> yaste -> ysate -> ysata -> satay -> ysata -> ysate -> yseat -> yeast[/spoiler]
+Optimal solution ([spoiler]14[/spoiler] moves): [spoiler]yseat -> yeast -> heast -> heats -> heets -> sheet -> heset -> these -> thase -> haste -> hates -> yates -> yatas -> atays -> satay[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]27[/spoiler]): [spoiler]yseat -> ysaat -> saaty -> satay -> satey -> sateh -> asteh -> haste -> hates -> heats -> heets -> sheet -> heset -> these -> heset -> sheet -> heets -> heats -> hates -> haste -> asteh -> sateh -> satey -> satay -> saaty -> ysaat -> yseat -> yeast[/spoiler]
 
 Level 14 - urepe
 ---------------------
@@ -148,8 +148,8 @@ Stars to unlock: 29
 ★: 20 moves
 ★★: 10 moves
 All words ([spoiler]4[/spoiler] words): [spoiler]japan, preen, puree, rupee[/spoiler]
-Optimal solution ([spoiler]10[/spoiler] moves): [spoiler]urepe -> ruepe -> rupee -> upree -> puree -> preeu -> preen -> repen -> rapen -> rapan -> japan[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]19[/spoiler]): [spoiler]urepe -> ruepe -> rupee -> upree -> preeu -> preen -> repen -> rapen -> rapan -> japan -> rapan -> rapen -> repen -> preen -> preeu -> upree -> rupee -> ruepe -> urepe -> puree[/spoiler]
+Optimal solution ([spoiler]10[/spoiler] moves): [spoiler]urepe -> ruepe -> rupee -> upree -> puree -> pnree -> preen -> pjeen -> pjaen -> pjaan -> japan[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]19[/spoiler]): [spoiler]urepe -> ruepe -> rupee -> rnpee -> npree -> preen -> pjeen -> pjaen -> pjaan -> japan -> pjaan -> pjaen -> pjeen -> preen -> npree -> rnpee -> rupee -> ruepe -> urepe -> puree[/spoiler]
 
 Level 15 - twsae
 ---------------------
@@ -159,8 +159,8 @@ Stars to unlock: 32
 ★★: 16 moves
 ★★★: 15 moves
 All words ([spoiler]10[/spoiler] words): [spoiler]mates, meats, meets, steam, sweat, sweet, tames, teams, teems, waste[/spoiler]
-Optimal solution ([spoiler]15[/spoiler] moves): [spoiler]twsae -> wsate -> waste -> swate -> sweat -> sweet -> weets -> meets -> meats -> mates -> mtaes -> tames -> teams -> steam -> teams -> teems[/spoiler]
-Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]30[/spoiler]): [spoiler]twsae -> tswae -> swaet -> sweat -> sweet -> weets -> meets -> meats -> mates -> mtaes -> tames -> teams -> steam -> teams -> teems -> teams -> steam -> teams -> tames -> mtaes -> mates -> meats -> meets -> weets -> sweet -> sweat -> swaet -> tswae -> twsae -> wsate -> waste[/spoiler]
+Optimal solution ([spoiler]15[/spoiler] moves): [spoiler]twsae -> wsate -> waste -> swate -> sweat -> sweet -> smeet -> meets -> meats -> mates -> atmes -> tames -> teams -> steam -> steem -> teems[/spoiler]
+Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]30[/spoiler]): [spoiler]twsae -> wsaet -> swaet -> sweat -> sweet -> smeet -> meets -> meats -> mates -> atmes -> tames -> teams -> steam -> steem -> teems -> steem -> steam -> teams -> tames -> atmes -> mates -> meats -> meets -> smeet -> sweet -> sweat -> swaet -> wsaet -> twsae -> wsate -> waste[/spoiler]
 
 Level 16 - dsala
 ---------------------
@@ -170,8 +170,8 @@ Stars to unlock: 35
 ★★: 22 moves
 ★★★: 21 moves
 All words ([spoiler]13[/spoiler] words): [spoiler]dales, deals, lapse, leads, leaps, leeds, pales, peals, peels, pleas, salad, sleep, sepal[/spoiler]
-Optimal solution ([spoiler]20[/spoiler] moves): [spoiler]dsala -> salad -> saadl -> saedl -> sedal -> sepal -> epals -> paels -> peels -> peals -> deals -> dales -> pales -> pleas -> leaps -> lapse -> leaps -> leads -> leeds -> leeps -> sleep[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]37[/spoiler]): [spoiler]dsala -> dsale -> dales -> deals -> peals -> peels -> peals -> epals -> sepal -> epals -> pales -> pleas -> leaps -> lapse -> leaps -> leads -> leeds -> leeps -> sleep -> leeps -> leeds -> leads -> leaps -> lapse -> leaps -> pleas -> pales -> epals -> sepal -> epals -> peals -> peels -> peals -> deals -> dales -> dsale -> dsala -> salad[/spoiler]
+Optimal solution ([spoiler]20[/spoiler] moves): [spoiler]dsala -> salad -> saled -> salep -> slepa -> sepal -> sepel -> epels -> peels -> peals -> deals -> dales -> pales -> pleas -> leaps -> lapse -> ladse -> leads -> leeds -> leeps -> sleep[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]37[/spoiler]): [spoiler]dsala -> dsale -> dales -> deals -> peals -> peels -> peals -> epals -> sepal -> epals -> pales -> pleas -> leaps -> lapse -> ladse -> leads -> leeds -> leeps -> sleep -> leeps -> leeds -> leads -> ladse -> lapse -> leaps -> pleas -> pales -> epals -> sepal -> epals -> peals -> peels -> peals -> deals -> dales -> dsale -> dsala -> salad[/spoiler]
 
 Level 17 - reedh
 ---------------------
@@ -181,8 +181,8 @@ Stars to unlock: 37
 ★★: 20 moves
 ★★★: 18 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]10[/spoiler] words): [spoiler]apery, deary, hared, heard, jehad, payer, rayed, ready, repay, reedy[/spoiler]
-Optimal solution ([spoiler]20[/spoiler] moves): [spoiler]reedh -> reedy -> ready -> ryead -> rayed -> rayep -> rpaye -> repay -> epayr -> payer -> apyer -> apery -> adery -> deary -> eardy -> eardh -> heard -> hared -> hread -> rehad -> jehad[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]41[/spoiler]): [spoiler]reedh -> jeedh -> jeadh -> jehad -> ehajd -> ehard -> heard -> hared -> ahred -> rahed -> rayed -> ryead -> ready -> eadry -> deary -> adery -> apery -> apyer -> payer -> epayr -> repay -> epayr -> payer -> apyer -> apery -> adery -> deary -> eadry -> ready -> ryead -> rayed -> rahed -> ahred -> hared -> heard -> ehard -> ehajd -> jehad -> jeadh -> jeedh -> reedh -> reedy[/spoiler]
+Optimal solution ([spoiler]20[/spoiler] moves): [spoiler]reedh -> reedy -> ready -> radye -> rayed -> rayep -> ryepa -> repay -> epayr -> payer -> apyer -> apery -> adery -> deary -> dearh -> eardh -> heard -> hared -> hajed -> ajehd -> jehad[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]41[/spoiler]): [spoiler]reedh -> jeedh -> jeadh -> jehad -> rehad -> ehard -> heard -> hared -> yared -> aryed -> rayed -> ryead -> ready -> eardy -> deary -> peary -> apery -> paery -> payer -> epayr -> repay -> epayr -> payer -> paery -> apery -> peary -> deary -> eardy -> ready -> ryead -> rayed -> aryed -> yared -> hared -> heard -> ehard -> rehad -> jehad -> jeadh -> jeedh -> reedh -> reedy[/spoiler]
 
 Level 18 - bdeeer
 ---------------------
@@ -191,8 +191,8 @@ Stars to unlock: 40
 ★: 10 moves
 ★★: 7 moves
 All words ([spoiler]2[/spoiler] words): [spoiler]beeper, abrade[/spoiler]
-Optimal solution ([spoiler]7[/spoiler] moves): [spoiler]bdeeer -> bpeeer -> beeper -> ebeper -> ebrepe -> ebrape -> ebrade -> abrade[/spoiler]
-Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]12[/spoiler]): [spoiler]bdeeer -> bdreee -> bredee -> bredae -> bradae -> abrade -> bradae -> bredae -> bredee -> bdreee -> bdeeer -> bpeeer -> beeper[/spoiler]
+Optimal solution ([spoiler]7[/spoiler] moves): [spoiler]bdeeer -> bpeeer -> beeper -> baeper -> baaper -> baader -> abader -> abrade[/spoiler]
+Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]12[/spoiler]): [spoiler]bdeeer -> bdaeer -> bdaaer -> dabaer -> abader -> abrade -> abader -> dabaer -> bdaaer -> bdaeer -> bdeeer -> bpeeer -> beeper[/spoiler]
 
 Level 19 - ceortv
 ---------------------
@@ -201,8 +201,8 @@ Stars to unlock: 41
 ★: 16 moves
 ★★: 9 moves
 All words ([spoiler]3[/spoiler] words): [spoiler]cavort, covert, vector[/spoiler]
-Optimal solution ([spoiler]8[/spoiler] moves): [spoiler]ceortv -> cevort -> cavort -> cevort -> cvoert -> covert -> covetr -> cvetor -> vector[/spoiler]
-Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]12[/spoiler]): [spoiler]ceortv -> coertv -> covert -> covetr -> cvetor -> vector -> cvetor -> covetr -> covert -> coertv -> ceortv -> cevort -> cavort[/spoiler]
+Optimal solution ([spoiler]8[/spoiler] moves): [spoiler]ceortv -> caortv -> cavort -> cevort -> cvoert -> covert -> ovecrt -> vecrto -> vector[/spoiler]
+Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]12[/spoiler]): [spoiler]ceortv -> coertv -> covert -> ovecrt -> vecrto -> vector -> vecrto -> ovecrt -> covert -> coertv -> ceortv -> caortv -> cavort[/spoiler]
 
 Level 20 - ehortu
 ---------------------
@@ -211,8 +211,8 @@ Stars to unlock: 43
 ★: 20 moves
 ★★: 14 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]4[/spoiler] words): [spoiler]author, hornet, notary, throne[/spoiler]
-Optimal solution ([spoiler]15[/spoiler] moves): [spoiler]ehortu -> horetu -> horuet -> hornet -> hronet -> throne -> thoner -> nthoer -> enthor -> euthor -> author -> uthaor -> uothar -> uotarh -> uotary -> notary[/spoiler]
-Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]25[/spoiler]): [spoiler]ehortu -> horetu -> horuet -> hornet -> hronet -> throne -> trhone -> ntrhoe -> ntrhoa -> notrha -> notrya -> notary -> notrya -> notrha -> ntrhoa -> ntrhoe -> trhone -> throne -> hronet -> hornet -> horuet -> horetu -> ehortu -> ahortu -> auhort -> author[/spoiler]
+Optimal solution ([spoiler]15[/spoiler] moves): [spoiler]ehortu -> ehortn -> hortne -> hornet -> hronet -> throne -> throue -> throua -> thorua -> uthora -> author -> anthor -> antyor -> ntyoar -> nyotar -> notary[/spoiler]
+Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]25[/spoiler]): [spoiler]ehortu -> ehortn -> hortne -> hornet -> hronet -> throne -> tyrone -> tyrona -> yronta -> rontay -> ontary -> notary -> ontary -> rontay -> yronta -> tyrona -> tyrone -> throne -> hronet -> hornet -> hortne -> ehortn -> ehortu -> ahortu -> athoru -> author[/spoiler]
 
 Level 21 - epremp
 ---------------------
@@ -222,8 +222,8 @@ Stars to unlock: 45
 ★★: 19 moves (IMPOSSIBLE WITHOUT USING BUG)
 ★★★: 17 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]9[/spoiler] words): [spoiler]damper, madder, mapper, pamper, permed, preamp, ramped, warded, warped[/spoiler]
-Optimal solution ([spoiler]20[/spoiler] moves): [spoiler]epremp -> preemp -> preamp -> prmeap -> parmep -> permep -> permed -> parmed -> pramed -> ramped -> drampe -> damper -> pamper -> mpaper -> mapper -> madper -> madder -> maderd -> marded -> warded -> warped[/spoiler]
-Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]36[/spoiler]): [spoiler]epremp -> eprmep -> permep -> permed -> parmed -> pramed -> ramped -> drampe -> damper -> pamper -> mpaper -> mapper -> madper -> madder -> maderd -> marded -> warded -> warped -> warded -> marded -> maderd -> madder -> madper -> mapper -> mpaper -> pamper -> damper -> drampe -> ramped -> pramed -> parmed -> permed -> permep -> eprmep -> epremp -> preemp -> preamp[/spoiler]
+Optimal solution ([spoiler]20[/spoiler] moves): [spoiler]epremp -> apremp -> preamp -> preamd -> preemd -> peermd -> permed -> parmed -> armped -> ramped -> amperd -> damper -> pamper -> ampper -> mapper -> madper -> madder -> wadder -> wadedr -> warded -> warped[/spoiler]
+Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]36[/spoiler]): [spoiler]epremp -> epremd -> premed -> permed -> parmed -> armped -> ramped -> amperd -> damper -> pamper -> ampper -> mapper -> madper -> madder -> wadder -> wadedr -> warded -> warped -> warded -> wadedr -> wadder -> madder -> madper -> mapper -> ampper -> pamper -> damper -> amperd -> ramped -> armped -> parmed -> permed -> premed -> epremd -> epremp -> apremp -> preamp[/spoiler]
 
 Level 22 - eelstd
 ---------------------
@@ -233,8 +233,8 @@ Stars to unlock: 48
 ★★: 30 moves
 ★★★: 27 moves
 All words ([spoiler]14[/spoiler] words): [spoiler]deltas, desalt, eldest, lasted, palest, pastel, pestle, petals, plates, pleats, salted, slated, staple, septal[/spoiler]
-Optimal solution ([spoiler]27[/spoiler] moves): [spoiler]eelstd -> eeldst -> eldest -> elpest -> lpeste -> pestle -> pastle -> pastel -> palste -> palest -> plesat -> pleats -> plates -> dlates -> latesd -> lasted -> slated -> salted -> dsalte -> desalt -> deslta -> deltas -> peltas -> petals -> eptals -> septal -> setapl -> staple[/spoiler]
-Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]52[/spoiler]): [spoiler]eelstd -> ealstd -> elastd -> lasted -> slated -> salted -> dsalte -> desalt -> deslta -> deltas -> peltas -> petals -> pealts -> pleats -> plates -> patles -> palest -> palste -> pastel -> pastle -> pestle -> estple -> astple -> staple -> setapl -> septal -> setapl -> staple -> astple -> estple -> pestle -> pastle -> pastel -> palste -> palest -> patles -> plates -> pleats -> pealts -> petals -> peltas -> deltas -> deslta -> desalt -> dsalte -> salted -> slated -> lasted -> elastd -> ealstd -> eelstd -> eeldst -> eldest[/spoiler]
+Optimal solution ([spoiler]27[/spoiler] moves): [spoiler]eelstd -> elestd -> eldest -> elpest -> lpeste -> pestle -> pastle -> pastel -> paestl -> palest -> pleast -> pleats -> plates -> dlates -> lateds -> lasted -> slated -> salted -> esaltd -> desalt -> dealts -> deltas -> peltas -> petals -> eptals -> septal -> sptale -> staple[/spoiler]
+Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]52[/spoiler]): [spoiler]eelstd -> aelstd -> elastd -> lasted -> slated -> salted -> esaltd -> desalt -> dealts -> deltas -> peltas -> petals -> peatls -> pleats -> plates -> paltes -> palest -> paestl -> pastel -> pestel -> pestle -> pastle -> astple -> staple -> sptale -> septal -> sptale -> staple -> astple -> pastle -> pestle -> pestel -> pastel -> paestl -> palest -> paltes -> plates -> pleats -> peatls -> petals -> peltas -> deltas -> dealts -> desalt -> esaltd -> salted -> slated -> lasted -> elastd -> aelstd -> eelstd -> elestd -> eldest[/spoiler]
 
 Level 23 - popejau
 ---------------------
@@ -243,8 +243,8 @@ Stars to unlock: 51
 ★: 30 moves
 ★★: 21 moves
 All words ([spoiler]5[/spoiler] words): [spoiler]adorned, operand, pandora, propane, aproned[/spoiler]
-Optimal solution ([spoiler]17[/spoiler] moves): [spoiler]popejau -> opejaup -> opejanp -> opejand -> operand -> opeandr -> peandor -> pandore -> pandora -> dandora -> dadorna -> dadorne -> adorned -> adroned -> aproned -> proaned -> proanep -> propane[/spoiler]
-Minimum solution ([spoiler]4[/spoiler] moves (bugged), actually [spoiler]30[/spoiler]): [spoiler]popejau -> popjaue -> pjopaue -> propaue -> propane -> proanep -> proaned -> aproned -> adroned -> adorned -> dadorne -> padorne -> pandore -> pandora -> pandore -> padorne -> dadorne -> adorned -> adroned -> aproned -> proaned -> proanep -> propane -> propaue -> pjopaue -> popjaue -> popejau -> opejaup -> opejanp -> opejand -> operand[/spoiler]
+Optimal solution ([spoiler]17[/spoiler] moves): [spoiler]popejau -> dopejau -> doperau -> doperan -> operand -> oparand -> parando -> prandoa -> pandora -> dandora -> dandore -> andored -> adorned -> aporned -> aproned -> apronep -> proanep -> propane[/spoiler]
+Minimum solution ([spoiler]4[/spoiler] moves (bugged), actually [spoiler]30[/spoiler]): [spoiler]popejau -> poperau -> poperan -> poprane -> propane -> prodane -> proaned -> aproned -> adroned -> adorned -> adornad -> adornap -> andorap -> pandora -> andorap -> adornap -> adornad -> adorned -> adroned -> aproned -> proaned -> prodane -> propane -> poprane -> poperan -> poperau -> popejau -> dopejau -> doperau -> doperan -> operand[/spoiler]
 
 Level 24 - csdieru
 ---------------------
@@ -253,8 +253,8 @@ Stars to unlock: 53
 ★: 30 moves
 ★★: 21 moves
 All words ([spoiler]6[/spoiler] words): [spoiler]cinders, cruised, discern, pincers, princes, rescind[/spoiler]
-Optimal solution ([spoiler]19[/spoiler] moves): [spoiler]csdieru -> csdiern -> sdicern -> discern -> dicersn -> dricesn -> drinces -> princes -> pincers -> pciners -> dciners -> cinders -> ecindrs -> escindr -> rescind -> reiscnd -> risecnd -> rnisecd -> ruisecd -> cruised[/spoiler]
-Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]35[/spoiler]): [spoiler]csdieru -> csierdu -> crsiedu -> crisedu -> cruised -> cruiesd -> ruiescd -> riescud -> resciud -> rescind -> escindr -> ecindrs -> cinders -> dciners -> pciners -> pincers -> princes -> pincers -> pciners -> dciners -> cinders -> ecindrs -> escindr -> rescind -> resciud -> riescud -> ruiescd -> cruiesd -> cruised -> crisedu -> crsiedu -> csierdu -> csdieru -> csdiern -> sdicern -> discern[/spoiler]
+Optimal solution ([spoiler]19[/spoiler] moves): [spoiler]csdieru -> csdiern -> sdicern -> discern -> piscern -> picesrn -> pricesn -> princes -> pincers -> dincers -> indcers -> cinders -> ecindrs -> recinds -> rescind -> resciud -> escriud -> scriued -> criused -> cruised[/spoiler]
+Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]35[/spoiler]): [spoiler]csdieru -> cdierus -> cierusd -> ceruisd -> cruised -> crnised -> rnisecd -> risecnd -> rsecind -> rescind -> escindr -> scinder -> cinders -> cinpers -> incpers -> pincers -> princes -> pincers -> incpers -> cinpers -> cinders -> scinder -> escindr -> rescind -> rsecind -> risecnd -> rnisecd -> crnised -> cruised -> ceruisd -> cierusd -> cdierus -> csdieru -> csdiern -> sdicern -> discern[/spoiler]
 
 Level 25 - dartaus
 ---------------------
@@ -264,8 +264,8 @@ Stars to unlock: 55
 ★★: 35 moves
 ★★★: 32 moves
 All words ([spoiler]10[/spoiler] words): [spoiler]parents, pasteur, pasture, present, repents, reputes, serpent, spartan, tenders, stander[/spoiler]
-Optimal solution ([spoiler]29[/spoiler] moves): [spoiler]dartaus -> partaus -> partans -> spartan -> sparten -> partens -> parents -> arpents -> sarpent -> serpent -> pserent -> psreent -> present -> repsent -> repents -> repntes -> reputes -> rpeutes -> rpetues -> petures -> patures -> pasture -> pasteur -> psteaur -> steaupr -> stauper -> stauder -> stander -> tanders -> tenders[/spoiler]
-Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]55[/spoiler]): [spoiler]dartaus -> darteus -> dateusr -> pateusr -> pasteur -> pasture -> pasuret -> pasreut -> pareuts -> parents -> arpents -> sarpent -> serpent -> pserent -> psreent -> present -> repsent -> repents -> repntes -> reputes -> redutes -> eduters -> teduers -> teuders -> tenders -> tanders -> stander -> tanders -> tenders -> teuders -> teduers -> eduters -> redutes -> reputes -> repntes -> repents -> repsent -> present -> psreent -> pserent -> serpent -> sarpent -> arpents -> parents -> pareuts -> pasreut -> pasuret -> pasture -> pasteur -> pateusr -> dateusr -> darteus -> dartaus -> partaus -> partans -> spartan[/spoiler]
+Optimal solution ([spoiler]29[/spoiler] moves): [spoiler]dartaus -> partaus -> partans -> spartan -> sparten -> partens -> parents -> perents -> erpents -> serpent -> erpsent -> rpesent -> present -> repsent -> repents -> repeuts -> reputes -> raputes -> aputres -> pautres -> patures -> pasture -> pasteur -> dasteur -> dastenr -> astendr -> staendr -> stander -> stender -> tenders[/spoiler]
+Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]55[/spoiler]): [spoiler]dartaus -> partaus -> parteus -> pateurs -> pasteur -> pasture -> pastnre -> patnres -> panrets -> parents -> perents -> erpents -> serpent -> erpsent -> rpesent -> present -> repsent -> repents -> repeuts -> reputes -> redutes -> redntes -> ednters -> endters -> tenders -> tanders -> stander -> tanders -> tenders -> endters -> ednters -> redntes -> redutes -> reputes -> repeuts -> repents -> repsent -> present -> rpesent -> erpsent -> serpent -> erpents -> perents -> parents -> panrets -> patnres -> pastnre -> pasture -> pasteur -> pateurs -> parteus -> partaus -> dartaus -> partaus -> partans -> spartan[/spoiler]
 
 Level 26 - iouutesc
 ---------------------
@@ -275,8 +275,8 @@ Stars to unlock: 58
 ★★: 20 moves
 ★★★: 19 moves
 All words ([spoiler]7[/spoiler] words): [spoiler]auctions, cautions, cautious, contains, counties, sanction, canonist[/spoiler]
-Optimal solution ([spoiler]18[/spoiler] moves): [spoiler]iouutesc -> iountesc -> icountes -> counties -> coutiens -> contiens -> contians -> contains -> conainst -> caoninst -> canonist -> canionst -> cantions -> cautions -> cautious -> cautions -> auctions -> sauction -> sanction[/spoiler]
-Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]35[/spoiler]): [spoiler]iouutesc -> ciouutes -> ceiouuts -> caiouuts -> catiouus -> cautious -> cautions -> auctions -> sauction -> sanction -> anctions -> anctonis -> anconist -> canonist -> canontis -> cnontais -> contains -> cnontais -> canontis -> canonist -> anconist -> anctonis -> anctions -> sanction -> sauction -> auctions -> cautions -> cautious -> catiouus -> caiouuts -> ceiouuts -> ciouutes -> iouutesc -> iountesc -> icountes -> counties[/spoiler]
+Optimal solution ([spoiler]18[/spoiler] moves): [spoiler]iouutesc -> iountesc -> ountiesc -> counties -> connties -> conntias -> contians -> contains -> conainst -> caoninst -> canonist -> cauonist -> cauouist -> cauioust -> cautious -> cautions -> auctions -> anctions -> sanction[/spoiler]
+Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]35[/spoiler]): [spoiler]iouutesc -> iouutasc -> uioutasc -> utiouasc -> autiousc -> cautious -> cautions -> auctions -> anctions -> sanction -> anctions -> cantions -> canionst -> canonist -> cnonaist -> conainst -> contains -> conainst -> cnonaist -> canonist -> canionst -> cantions -> anctions -> sanction -> anctions -> auctions -> cautions -> cautious -> autiousc -> utiouasc -> uioutasc -> iouutasc -> iouutesc -> iountesc -> ountiesc -> counties[/spoiler]
 
 Level 27 - diugsije
 ---------------------
@@ -286,8 +286,8 @@ Stars to unlock: 61
 ★★: 20 moves
 ★★★: 18 moves
 All words ([spoiler]6[/spoiler] words): [spoiler]aspiring, desiring, pairings, praising, residing, ringside[/spoiler]
-Optimal solution ([spoiler]17[/spoiler] moves): [spoiler]diugsije -> iugsidje -> iugsidre -> ingsidre -> ringside -> rigsidne -> rigesidn -> riesidng -> residing -> rdesiing -> desiring -> dasiring -> pasiring -> aspiring -> pasiring -> pairings -> paisring -> praising[/spoiler]
-Minimum solution ([spoiler]4[/spoiler] moves (bugged), actually [spoiler]34[/spoiler]): [spoiler]diugsije -> idiugsje -> idiugsre -> ridiugse -> reidiugs -> reidings -> residing -> rdesiing -> desiring -> dasiring -> pasiring -> aspiring -> pasiring -> pairings -> paisring -> praising -> paisring -> pairings -> pasiring -> aspiring -> pasiring -> dasiring -> desiring -> rdesiing -> residing -> reidings -> reidiugs -> ridiugse -> idiugsre -> idiugsje -> diugsije -> iugsidje -> iugsidre -> ingsidre -> ringside[/spoiler]
+Optimal solution ([spoiler]17[/spoiler] moves): [spoiler]diugsije -> dingsije -> dingsire -> ingsidre -> ringside -> rngsidie -> rgsidine -> rsidinge -> residing -> esirding -> desiring -> pesiring -> pasiring -> aspiring -> spairing -> pairings -> praiings -> praising[/spoiler]
+Minimum solution ([spoiler]4[/spoiler] moves (bugged), actually [spoiler]34[/spoiler]): [spoiler]diugsije -> dingsije -> dingsire -> sdingire -> sidingre -> rsidinge -> residing -> esirding -> desiring -> pesiring -> pasiring -> aspiring -> spairing -> pairings -> praiings -> praising -> praiings -> pairings -> spairing -> aspiring -> pasiring -> pesiring -> desiring -> esirding -> residing -> rsidinge -> sidingre -> sdingire -> dingsire -> dingsije -> diugsije -> dingsije -> dingsire -> ingsidre -> ringside[/spoiler]
 
 Level 28 - ejesiduts
 ---------------------
