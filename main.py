@@ -282,6 +282,19 @@ class Solver:
                     min_path = path
         return min_path
 
+    @staticmethod
+    def optimize_minimum_solution(path):
+        path = list(path)
+        for i in range(len(path)):
+            for j in range(i + 2, len(path)):
+                if path[i] == path[j]:
+                    path = path[:i] + path[j:]
+                    break
+            else:
+                continue
+            break
+        return path
+
     def minimum_solution(self, start, all_words):
         min_path = None
         min_words = []
@@ -303,7 +316,7 @@ class Solver:
                 print(f"ERROR: {word} in solution {solution}")
                 input()
             else:
-                solution = solution + solution[-2::-1] + self.minimum_path(start, word)[1:]
+                solution = solution + self.optimize_minimum_solution(solution[-2::-1]) + self.minimum_path(start, word)[1:]
                 if min_solution is None or len(solution) < len(min_solution):
                     min_solution = solution
 

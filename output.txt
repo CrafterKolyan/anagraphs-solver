@@ -6,7 +6,7 @@ Stars to unlock: 0
 ★★: 6 moves
 All words ([spoiler]6[/spoiler] words): [spoiler]me, aw, ma, we, am, ew[/spoiler]
 Optimal solution ([spoiler]6[/spoiler] moves): [spoiler]em -> me -> ma -> am -> aw -> ew -> we[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]13[/spoiler]): [spoiler]em -> am -> ma -> am -> aw -> ew -> we -> ew -> aw -> am -> ma -> am -> em -> me[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]11[/spoiler]): [spoiler]em -> am -> ma -> am -> aw -> ew -> we -> ew -> aw -> am -> em -> me[/spoiler]
 
 Level 1 - ddo
 ---------------------
@@ -67,7 +67,7 @@ Stars to unlock: 12
 ★★: 7 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]7[/spoiler] words): [spoiler]dots, opts, post, pots, spot, stop, tops[/spoiler]
 Optimal solution ([spoiler]8[/spoiler] moves): [spoiler]ostp -> post -> spot -> pots -> dots -> pots -> opts -> tops -> stop[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]15[/spoiler]): [spoiler]ostp -> stop -> tops -> opts -> pots -> dots -> pots -> spot -> pots -> dots -> pots -> opts -> tops -> stop -> ostp -> post[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]13[/spoiler]): [spoiler]ostp -> stop -> tops -> opts -> pots -> dots -> pots -> spot -> pots -> opts -> tops -> stop -> ostp -> post[/spoiler]
 
 Level 7 - erar
 ---------------------
@@ -98,7 +98,7 @@ Stars to unlock: 18
 ★★★: 16 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]12[/spoiler] words): [spoiler]dens, dues, ends, naps, pans, pens, sand, send, snap, span, sued, used[/spoiler]
 Optimal solution ([spoiler]17[/spoiler] moves): [spoiler]aspn -> span -> spen -> pens -> pans -> anps -> naps -> snap -> snad -> sand -> send -> ends -> dens -> deus -> dues -> ueds -> sued -> used[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]33[/spoiler]): [spoiler]aspn -> spna -> snap -> naps -> apns -> pans -> pens -> dens -> ends -> send -> sand -> send -> seud -> used -> sued -> uesd -> dues -> uesd -> sued -> used -> seud -> send -> sand -> send -> ends -> dens -> pens -> pans -> apns -> naps -> snap -> spna -> aspn -> span[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]31[/spoiler]): [spoiler]aspn -> spna -> snap -> naps -> apns -> pans -> pens -> dens -> ends -> send -> sand -> send -> seud -> used -> sued -> uesd -> dues -> uesd -> sued -> used -> seud -> send -> ends -> dens -> pens -> pans -> apns -> naps -> snap -> spna -> aspn -> span[/spoiler]
 
 Level 10 - dwas
 ---------------------
@@ -109,7 +109,7 @@ Stars to unlock: 20
 ★★★: 14 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]13[/spoiler] words): [spoiler]amps, dams, dews, maps, paws, pews, spam, spew, swad, swap, wads, wasp, weds[/spoiler]
 Optimal solution ([spoiler]19[/spoiler] moves): [spoiler]dwas -> wads -> swad -> swap -> wasp -> masp -> maps -> amps -> pams -> spam -> spem -> spew -> pews -> paws -> daws -> dams -> dems -> dews -> ewds -> weds[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]39[/spoiler]): [spoiler]dwas -> dswa -> swad -> swap -> wasp -> masp -> maps -> amps -> pams -> spam -> spem -> spew -> pews -> paws -> daws -> dams -> dems -> dews -> ewds -> weds -> ewds -> dews -> dems -> dams -> daws -> paws -> pews -> spew -> spem -> spam -> pams -> amps -> maps -> masp -> wasp -> swap -> swad -> dswa -> dwas -> wads[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]39[/spoiler]): [spoiler]dwas -> sdwa -> swad -> swap -> wasp -> masp -> maps -> amps -> pams -> spam -> spem -> spew -> pews -> paws -> daws -> dams -> dems -> dews -> ewds -> weds -> ewds -> dews -> dems -> dams -> daws -> paws -> pews -> spew -> spem -> spam -> pams -> amps -> maps -> masp -> wasp -> swap -> swad -> sdwa -> dwas -> wads[/spoiler]
 
 Level 11 - oslva
 ---------------------
@@ -119,7 +119,7 @@ Stars to unlock: 23
 ★★: 10 moves (IMPOSSIBLE WITHOUT USING BUG)
 All words ([spoiler]5[/spoiler] words): [spoiler]loves, ovals, salvo, solve, voles[/spoiler]
 Optimal solution ([spoiler]11[/spoiler] moves): [spoiler]oslva -> slvoa -> salvo -> alsvo -> valso -> ovals -> ovels -> loves -> olves -> solve -> olves -> voles[/spoiler]
-Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]18[/spoiler]): [spoiler]oslva -> olvas -> ovals -> ovels -> loves -> olves -> solve -> olves -> voles -> olves -> solve -> olves -> loves -> ovels -> ovals -> olvas -> oslva -> slvoa -> salvo[/spoiler]
+Minimum solution ([spoiler]2[/spoiler] moves (bugged), actually [spoiler]16[/spoiler]): [spoiler]oslva -> olvas -> ovals -> ovels -> loves -> olves -> solve -> olves -> voles -> olves -> loves -> ovels -> ovals -> olvas -> oslva -> slvoa -> salvo[/spoiler]
 
 Level 12 - larat
 ---------------------
@@ -171,7 +171,7 @@ Stars to unlock: 35
 ★★★: 21 moves
 All words ([spoiler]13[/spoiler] words): [spoiler]dales, deals, lapse, leads, leaps, leeds, pales, peals, peels, pleas, salad, sleep, sepal[/spoiler]
 Optimal solution ([spoiler]20[/spoiler] moves): [spoiler]dsala -> salad -> saled -> salep -> slepa -> sepal -> sepel -> epels -> peels -> peals -> deals -> dales -> pales -> pleas -> leaps -> lapse -> ladse -> leads -> leeds -> leeps -> sleep[/spoiler]
-Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]37[/spoiler]): [spoiler]dsala -> dsale -> dales -> deals -> peals -> peels -> peals -> epals -> sepal -> epals -> pales -> pleas -> leaps -> lapse -> ladse -> leads -> leeds -> leeps -> sleep -> leeps -> leeds -> leads -> ladse -> lapse -> leaps -> pleas -> pales -> epals -> sepal -> epals -> peals -> peels -> peals -> deals -> dales -> dsale -> dsala -> salad[/spoiler]
+Minimum solution ([spoiler]1[/spoiler] moves (bugged), actually [spoiler]35[/spoiler]): [spoiler]dsala -> dsale -> dales -> deals -> peals -> peels -> peals -> epals -> sepal -> epals -> pales -> pleas -> leaps -> lapse -> ladse -> leads -> leeds -> leeps -> sleep -> leeps -> leeds -> leads -> ladse -> lapse -> leaps -> pleas -> pales -> epals -> peals -> peels -> peals -> deals -> dales -> dsale -> dsala -> salad[/spoiler]
 
 Level 17 - reedh
 ---------------------
@@ -276,7 +276,7 @@ Stars to unlock: 58
 ★★★: 19 moves
 All words ([spoiler]7[/spoiler] words): [spoiler]auctions, cautions, cautious, contains, counties, sanction, canonist[/spoiler]
 Optimal solution ([spoiler]18[/spoiler] moves): [spoiler]iouutesc -> iountesc -> ountiesc -> counties -> connties -> conntias -> contians -> contains -> conainst -> caoninst -> canonist -> cauonist -> cauouist -> cauioust -> cautious -> cautions -> auctions -> anctions -> sanction[/spoiler]
-Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]35[/spoiler]): [spoiler]iouutesc -> iouutasc -> uioutasc -> utiouasc -> autiousc -> cautious -> cautions -> auctions -> anctions -> sanction -> anctions -> cantions -> canionst -> canonist -> cnonaist -> conainst -> contains -> conainst -> cnonaist -> canonist -> canionst -> cantions -> anctions -> sanction -> anctions -> auctions -> cautions -> cautious -> autiousc -> utiouasc -> uioutasc -> iouutasc -> iouutesc -> iountesc -> ountiesc -> counties[/spoiler]
+Minimum solution ([spoiler]3[/spoiler] moves (bugged), actually [spoiler]33[/spoiler]): [spoiler]iouutesc -> iouutasc -> uioutasc -> utiouasc -> autiousc -> cautious -> cautions -> auctions -> anctions -> sanction -> anctions -> cantions -> canionst -> canonist -> cnonaist -> conainst -> contains -> conainst -> cnonaist -> canonist -> canionst -> cantions -> anctions -> auctions -> cautions -> cautious -> autiousc -> utiouasc -> uioutasc -> iouutasc -> iouutesc -> iountesc -> ountiesc -> counties[/spoiler]
 
 Level 27 - diugsije
 ---------------------
