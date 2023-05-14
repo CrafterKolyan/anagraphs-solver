@@ -417,7 +417,6 @@ def generate_guide(levels):
 
 guide = generate_guide(levels)
 description = "\n\n".join(guide)
-print(description)
 
 if __name__ == "__main__":
     if len(sys.argv) == 2:
