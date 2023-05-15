@@ -59,7 +59,7 @@ Easiest algorithm you can think of to find minimum path between two words is BFS
    **Example:** from `leeds` to `lapse`<br>
    We have two groups: `a <-> e` and `d <-> p`<br>
    In the first group we have 2 letters in the word and in the end we have only one `a` (and one `e`) so it contriutes $C^2_1 = 2$<br>
-   In the second group we have 1 letter in the wod and in the end we have only one `p` so it contributes $C^1_1 = 1$<br>
+   In the second group we have 1 letter in the word and in the end we have only one `p` so it contributes $C^1_1 = 1$<br>
    Thus total number of combinations equals to $C^2_1 * C^1_1 = 2 * 1 = 2$ and these are `leaps` and `laeps`
 
 #### Personal comments on proposed algorithm
