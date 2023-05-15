@@ -41,7 +41,7 @@ In this game there are two operations that can be done on a word:
 
 By word here we mean a string of letters, not a word in a dictionary.
 
-Easiest algorithm you can think of to find minimum path between two words is BFS algorithm. It's complexity would be equal to $O(m^{2answer})$, where $m$ is the length of the word and $answer$ is the distance between two words. This is because there are at most $m$ possible rotations and $m$ possible letter to move to $m - 1$ possible locations, thus making at most $m + m(m - 1) = m^2$ neighbours for each word. For quite far words of length 8 (levels 26+) it becomes impractical.
+Easiest algorithm you can think of to find minimum path between two words is BFS algorithm. It's complexity would be equal to $O(m^{2answer})$, where $m$ is the length of the word and $answer$ is the distance between two words. This is because there are at most $m$ possible rotations and $m$ possible letters to move to $m - 1$ possible locations, thus making at most $m + m(m - 1) = m^2$ neighbours for each word. For quite far words of length 8 (levels 26+) it becomes impractical.
 
 #### Proposed algorithm
 
