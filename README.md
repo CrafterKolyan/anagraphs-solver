@@ -17,7 +17,7 @@ python -m pip install -r requirements.txt
 ## Usage
 
 ```bash
-python main.py
+python main.py output.txt
 ```
 
 ## Algorithm
